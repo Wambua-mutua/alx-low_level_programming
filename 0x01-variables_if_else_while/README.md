@@ -1,0 +1,1 @@
+variable manipulation in c
