@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- *main - Entry point
+ * main - Entry point
  *
- *Description:code to get size of datatypes
- *return: return 0=(sucess)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
