@@ -3,7 +3,7 @@
  *main - Entry point
  *
  *Description:code to get size of datatypes
- *RETURN: return 0=(sucess)
+ *return: return 0=(sucess)
  */
 
 int main(void)
