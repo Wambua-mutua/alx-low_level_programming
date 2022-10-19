@@ -6,7 +6,7 @@
 */
 int main(void)
 {
-	int s[] = {'-', 'p', 'u', 't', 'c', 'h', 'a', 'r'};
+	int s[] = {'_', 'p', 'u', 't', 'c', 'h', 'a', 'r'};
 
 	int print;
 
