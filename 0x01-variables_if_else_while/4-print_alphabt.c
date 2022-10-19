@@ -6,7 +6,9 @@
  */
 int main(void)
 {
-	for (int n = 'a'; n <= 'z'; n++)
+	int n;
+
+	for (n = 'a'; n <= 'z'; n++)
 	{
 		if (n != 'e' && n != 'q')
 		{
