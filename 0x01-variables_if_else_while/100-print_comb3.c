@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include  "main.h"
 /**
 *main - Prints numbers between 00 to 89
 *Return: Always 0 (Success)
@@ -17,19 +16,19 @@ int main(void)
 		{
 			if (x != i && x < i)
 			{
-				_putchar(e);
-				_putchar(i);
+				putchar(e);
+				putchar(i);
 				if (i == 57 && x == 56)
 				{
 					break;
 				}
-				_putchar(',');
-				_putchar(' ');
+				putchar(',');
+				putchar(' ');
 			}
 			i++;
 		}
 		x++;
 	}
-	_putchar('\n');
+	putchar('\n');
 	return (0);
 }
