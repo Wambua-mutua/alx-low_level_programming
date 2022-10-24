@@ -1,9 +1,9 @@
-#include "main.h"
+#include <stdio.h>
 /**
-* main - prints Buzz each numbers of 3 and 5
+*main - prints Buzz each numbers of 3 and 5
 *Return: Always 0
 */
-void main(void)
+int main(void)
 {
 	int n;
 
