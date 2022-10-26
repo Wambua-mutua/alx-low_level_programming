@@ -13,12 +13,12 @@ void puts_half(char *str)
 	{
 		if (str[length_of_the_string] == '\0')
 			break;
-		length_of_the_string++
+		length_of_the_string++;
 	}
 	if (length_of_the_string % 2 == 1)
 		n = length_of_the_string / 2;
 	else
-		n = (lenght_of_the_string - 1) / 2;
+		n = (length_of_the_string - 1) / 2;
 	for (n++; n < length_of_the_string; n++)
 		_putchar(str[n]);
 	_putchar('\n');
